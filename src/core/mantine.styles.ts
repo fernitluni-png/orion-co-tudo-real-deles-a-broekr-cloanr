@@ -1,0 +1,2 @@
+// mantine styles placeholder
+export {};
